@@ -15,7 +15,7 @@ https://antotes.github.io/Data-Science-Portfolio/
 
 ### 🧠 Deep Learning
 - Deep neural networks for hate speech detection on social media.
-- Built with `TensorFlow` and `Keras` (DNN, CNN).
+- Built with `TensorFlow` and `Keras` (DNN, RNN).
 - End-to-end training, validation, and evaluation of complex models.
 
 ### 📸 Computer Vision
@@ -25,7 +25,6 @@ https://antotes.github.io/Data-Science-Portfolio/
 ### 🗣️ Natural Language Processing
 - Spam detection via text classification.
 - NLP pipeline: tokenization, stopword removal, lemmatization, embedding.
-- Sequential modeling using `RNN`/`CNN` for text analysis.
 
 ### 📊 Big Data & SQL
 - Interactive HTML dashboards for insights and storytelling.
