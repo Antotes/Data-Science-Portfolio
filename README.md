@@ -2,6 +2,9 @@
 
 Welcome to my personal portfolio of projects in Data Science, Machine Learning, and Artificial Intelligence. This repository showcases a variety of practical projects that demonstrate technical skills in predictive modeling, deep learning, computer vision, natural language processing, SQL analysis, and applied statistics.
 
+## Github pages
+https://antotes.github.io/Data-Science-Portfolio/
+
 ## 📌 Key Project Areas
 
 ### 🔬 Machine Learning
