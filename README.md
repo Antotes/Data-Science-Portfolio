@@ -26,7 +26,7 @@ https://antotes.github.io/Data-Science-Portfolio/
 - Spam detection via text classification.
 - NLP pipeline: tokenization, stopword removal, lemmatization, embedding.
 
-### 📊 Big Data & SQL
+### 🗄️ Big Data & SQL
 - Interactive HTML dashboards for insights and storytelling.
 - Analysis of large-scale text data using `Apache Spark`.
 - SQL for segmentation and profiling in banking datasets.
@@ -36,3 +36,11 @@ https://antotes.github.io/Data-Science-Portfolio/
 - Real estate trend analysis in Texas using statistical methods.
 - Regression analysis and statistical modeling for inference and prediction.
 - Data storytelling and interactive reports in HTML format.
+
+## 📊 Data Visualization
+
+https://public.tableau.com/app/profile/antonio.tesone/viz/Superstore_sales_analysis_17480126881840/OverallPerformancesDashboard_12
+
+- Supermarket sales analysis.
+- Interactive dashboard to monitor overall business performance.
+- Tableau Story to communicate key insights in an effective and engaging way.
