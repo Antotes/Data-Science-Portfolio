@@ -27,7 +27,6 @@ https://antotes.github.io/Data-Science-Portfolio/
 - NLP pipeline: tokenization, stopword removal, lemmatization, embedding.
 
 ### 🗄️ Big Data & SQL
-- Interactive HTML dashboards for insights and storytelling.
 - Analysis of large-scale text data using `Apache Spark`.
 - SQL for segmentation and profiling in banking datasets.
 
